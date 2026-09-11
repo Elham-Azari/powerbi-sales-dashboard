@@ -6,10 +6,10 @@ An interactive and executive Power BI dashboard designed to analyze sales perfor
 
 ## 📸 Dashboard Overview
 
-![Dashboard Overview](Capture.PNG)
+![Dashboard Overview](1.PNG)
 *Main Executive Overview Page*
 
-![Sales Forecast Page](Capture2.PNG)
+![Sales Forecast Page](2.PNG)
 *15-Day Sales Forecast & State Analysis Page*
 
 ---
